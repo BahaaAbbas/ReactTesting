@@ -1,2 +1,2 @@
-# ReactTestingCalc
-ReactTestingCalc
+# ReactTesting
+ReactTesting
